@@ -1,0 +1,12 @@
+{
+  "name": "btsg-offline-key-generator.git",
+  "version": "0.0.1",
+  "description": "This tool helps you generating a new random seed and address",
+  "main": "index.js",
+  "author": "Angelo Recca <hello@bitsong.io>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@bitsongofficial/js-sdk": "https://github.com/bitsongofficial/js-sdk#v0.6.0-dev"
+  }
+}
